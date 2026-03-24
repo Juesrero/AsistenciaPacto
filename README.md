@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Control de Asistencia
 
 Sistema web responsivo base para control de asistencia, actas y análisis poblacional.
@@ -128,3 +129,6 @@ npm.cmd run build
 
 - Si deseas usar Apache de XAMPP, también necesitas que ese Apache apunte a PHP 8.3. Con PHP 8.2 no es una combinación soportada para Laravel 13.
 - Para esta fase el dashboard está preparado como base visual vacía; los módulos de negocio aún no están implementados.
+=======
+# AsistenciaPacto
+>>>>>>> b0e0bf2240c97ba174d7f1f0bbc4534148a98926
